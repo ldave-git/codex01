@@ -1,0 +1,10 @@
+# Build artifacts
+bin/
+obj/
+**/bin/
+**/obj/
+# Rider / VS Code / VS
+.vs/
+.idea/
+*.user
+*.suo
